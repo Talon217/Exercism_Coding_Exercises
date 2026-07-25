@@ -11,12 +11,15 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-25 | feat(python): solved exercism black-jack.py | status: `complete`
+> [**black_jack.py**](./../python/black-jack/black_jack.py) - learned some function concepts.<br>
 
 ## 2026-07-24 | feat(python): solved exercism meltdown-mitigation.py | status: `complete`
-> [**meltdown_mitigation.py**](./../challenges/exercism/python/meltdown-mitigation/meltdown_mitigation.py) - learned some function concepts.<br>
+> [**meltdown_mitigation.py**](./../python/meltdown-mitigation/conditionals.py) - learned some function concepts.<br>
 
 ## 2026-07-24 | feat(core): MAJOR REPO UPDATE | status: `complete`
-> **Changed the entire repository structure and purpose!**
+> **Changed the entire repository structure and purpose!** <br>
+> Decided not to update older log links, for a more accuraate timeline.
 
 ## 2026-07-22 | feat:(python): solved exercism currency-exchange.py | status: `complete`
 > [**exchange.py**](./../challenges/exercism/python/currency-exchange/exchange.py) - learned some algebre, and math functions.<br>
