@@ -11,9 +11,16 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+
+## 2026-07-24 | feat(python): solved exercism meltdown-mitigation.py | status: `complete`
+> [**meltdown_mitigation.py**](./../challenges/exercism/python/meltdown-mitigation/meltdown_mitigation.py) - learned some function concepts.<br>
+
+## 2026-07-24 | feat(core): MAJOR REPO UPDATE | status: `complete`
+> **Changed the entire repository structure and purpose!**
+
 ## 2026-07-22 | feat:(python): solved exercism currency-exchange.py | status: `complete`
 > [**exchange.py**](./../challenges/exercism/python/currency-exchange/exchange.py) - learned some algebre, and math functions.<br>
-
+    
 ## 2026-07-21 | docs: typo fixes | status: `complete`
 > [**documentation/README.md**](./README.md) - removed typo.<br>
 > [**exercises/README.md**](./../exercises/README.md) - fixed link.<br>
