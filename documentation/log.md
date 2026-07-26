@@ -11,6 +11,9 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-26 | feat(python): solved exercism little-sisters-vocab.py | status: `complete`
+> [**little_sisters_vocab.py**](./../python/little-sisters-vocab/strings.py) - learned some fundamental string concepts.<br>
+
 ## 2026-07-25 | feat(python): solved exercism black-jack.py | status: `complete`
 > [**black_jack.py**](./../python/black-jack/black_jack.py) - learned some function concepts.<br>
 
