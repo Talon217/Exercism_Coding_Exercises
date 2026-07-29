@@ -11,8 +11,12 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
-## 2026-07-28 | feat(python): solved exercism little-sisters-essay.py | status: `complete`
-> [**little_sisters_essay.py**](./../python/little-sisters-essay/string_methods.py) - learned some fundamental string methods. (e.g., .strip, .title, .endswith)<br>
+
+## 2026-07-29 | feat(python): solved exercism lists.py | status: `complete`
+> [**lists.py**](./../python/card-games/lists.py) - learned some fundamental list methods. (e.g., .append, .extend, .pop)<br>
+
+## 2026-07-28 | feat(python): solved exercism string-methods.py | status: `complete`
+> [**string_methods.py**](./../python/little-sisters-essay/string_methods.py) - learned some fundamental string methods. (e.g., .strip, .title, .endswith)<br>
 
 ## 2026-07-26 | feat(python): solved exercism little-sisters-vocab.py | status: `complete`
 > [**little_sisters_vocab.py**](./../python/little-sisters-vocab/strings.py) - learned some fundamental string concepts.<br>
