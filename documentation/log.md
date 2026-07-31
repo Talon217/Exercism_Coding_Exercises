@@ -11,6 +11,8 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-31 | feat(python): solved exercism chaitanas-colossal-coaster.py | status: `complete`
+> [**list_methods.py**](./../python/chaitanas-colossal-coaster/list_methods.py) - more in depth understanding of list methods.<br>
 
 ## 2026-07-29 | feat(python): solved exercism lists.py | status: `complete`
 > [**lists.py**](./../python/card-games/lists.py) - learned some fundamental list methods. (e.g., .append, .extend, .pop)<br>
