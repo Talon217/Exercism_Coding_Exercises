@@ -11,6 +11,10 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-31 | feat(python): solved exercism making-the-grade.py | status: `complete`
+> [**loops.py**](./../python/making-the-grade/loops.py) - learned some fundamental loop concepts.<br>
+> One of the most helpful exercises yet! learned List Comprehensions, Generator Expressions, zip(), enumerate(), and next()
+
 ## 2026-07-31 | feat(python): solved exercism chaitanas-colossal-coaster.py | status: `complete`
 > [**list_methods.py**](./../python/chaitanas-colossal-coaster/list_methods.py) - more in depth understanding of list methods.<br>
 
